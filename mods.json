@@ -3,11 +3,11 @@
   "mods": [
     {
       "name": "fabric-api-0_119_4_1_21_4__1_.jar",
-      "url": "https://github.com/martingevaert25-pixel/summersmp-mods/raw/main/fabric-api-0_119_4_1_21_4__1_.jar"
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/fabric-api-0_119_4_1_21_4__1_.jar"
     },
     {
       "name": "waterframes-FABRIC-mc1_21_5-v2_1_22.jar",
-      "url": "https://github.com/martingevaert25-pixel/summersmp-mods/raw/main/waterframes-FABRIC-mc1_21_5-v2_1_22.jar"
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/waterframes-FABRIC-mc1_21_5-v2_1_22.jar"
     }
   ]
 }

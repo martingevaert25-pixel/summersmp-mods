@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "mods": [
     {
       "name": "fabric-api-0.116.10+1.21.1.jar",
@@ -14,8 +14,8 @@
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar"
     },
     {
-      "name": "watermedia-3.0.0-beta.10.jar",
-      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/N029A94N/watermedia-3.0.0-beta.10.jar"
+      "name": "watermedia-2.1.37.jar",
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/fB0LmHnR/watermedia-2.1.37.jar"
     }
   ]
 }

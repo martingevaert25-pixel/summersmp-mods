@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "mods": [
     {
       "name": "fabric-api-0.128.2+1.21.5.jar",
@@ -8,6 +8,10 @@
     {
       "name": "waterframes-FABRIC-mc1.21.5-v2.1.22.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/waterframes-FABRIC-mc1.21.5-v2.1.22.jar"
+    },
+    {
+      "name": "CreativeCore_FABRIC_v2.13.4_mc1.21.5.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/CreativeCore_FABRIC_v2.13.4_mc1.21.5.jar"
     }
   ]
 }

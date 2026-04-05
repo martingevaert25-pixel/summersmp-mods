@@ -1,21 +1,21 @@
 {
-  "version": 5,
+  "version": 6,
   "mods": [
     {
-      "name": "fabric-api-0.128.2+1.21.5.jar",
-      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/fabric-api-0.128.2%2B1.21.5.jar"
+      "name": "fabric-api-0.116.10+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/fabric-api-0.116.10%2B1.21.1.jar"
     },
     {
-      "name": "waterframes-FABRIC-mc1.21.5-v2.1.22.jar",
-      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/waterframes-FABRIC-mc1.21.5-v2.1.22.jar"
+      "name": "waterframes-FABRIC-mc1.21.1-v2.1.22.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/waterframes-FABRIC-mc1.21.1-v2.1.22.jar"
     },
     {
-      "name": "CreativeCore_FABRIC_v2.13.4_mc1.21.5.jar",
-      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/CreativeCore_FABRIC_v2.13.4_mc1.21.5.jar"
+      "name": "CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar"
     },
     {
-      "name": "watermedia-xxx.jar",
-      "url": "https://cdn.modrinth.com/data/XXXXXX/versions/YYYYYY/watermedia-xxx.jar"
+      "name": "watermedia-3.0.0-beta.10.jar",
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/N029A94N/watermedia-3.0.0-beta.10.jar"
     }
   ]
 }

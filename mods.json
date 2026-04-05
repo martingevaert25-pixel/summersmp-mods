@@ -12,6 +12,10 @@
     {
       "name": "CreativeCore_FABRIC_v2.13.4_mc1.21.5.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/CreativeCore_FABRIC_v2.13.4_mc1.21.5.jar"
-    }
+    },
+    {
+      "name": "watermedia-xxx.jar",
+      "url": "https://cdn.modrinth.com/data/XXXXXX/versions/YYYYYY/watermedia-xxx.jar"
+
   ]
 }

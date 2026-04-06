@@ -25,5 +25,9 @@
       "name": "modmenu-11.0.4.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/modmenu-11.0.4.jar"
     },
+    {
+      "name": "iris-fabric-1.8.8+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/iris-fabric-1.8.8+mc1.21.1.jar"
+    }
   ]
 }

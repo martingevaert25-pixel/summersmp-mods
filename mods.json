@@ -32,10 +32,14 @@
     {
       "name": "ferritecore-7.0.3-fabric.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/ferritecore-7.0.3-fabric.jar"
-    }
+    },
     {
       "name": "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
+    }
+    {
+      "name": "indium-1.0.35+mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/indium-1.0.35+mc1.21.jar"
     }
   ]
 }

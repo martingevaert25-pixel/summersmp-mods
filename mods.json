@@ -28,6 +28,10 @@
     {
       "name": "iris-fabric-1.8.8+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/iris-fabric-1.8.8+mc1.21.1.jar"
+    },
+    {
+      "name": "ferritecore-7.0.3-fabric.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/ferritecore-7.0.3-fabric.jar"
     }
   ]
 }

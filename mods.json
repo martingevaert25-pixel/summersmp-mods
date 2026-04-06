@@ -8,6 +8,10 @@
     {
       "name": "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
+    },
+    {
+      "name": "voicechat-fabric-1.21.1-2.6.15.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/voicechat-fabric-1.21.1-2.6.15.jar"
     }
   ]
 }

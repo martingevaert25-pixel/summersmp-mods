@@ -1,9 +1,13 @@
 {
-  "version": 7,
+  "version": 8,
   "mods": [
     {
       "name": "fabric-api-0.116.10+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/fabric-api-0.116.10%2B1.21.1.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
     }
   ]
 }

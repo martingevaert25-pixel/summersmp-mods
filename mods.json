@@ -44,6 +44,10 @@
     {
       "name": "xaerominimap-fabric-1.21.1-25.3.10.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/xaerominimap-fabric-1.21.1-25.3.10.jar"
+    },
+    {
+      "name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/xaeroworldmap-fabric-1.21.1-1.40.11.jar"
     }
   ]
 }

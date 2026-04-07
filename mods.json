@@ -40,6 +40,10 @@
     {
       "name": "indium-1.0.35+mc1.21.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/indium-1.0.35+mc1.21.jar"
+    },
+    {
+      "name": "xaerominimap-fabric-1.21.1-25.3.10.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/xaerominimap-fabric-1.21.1-25.3.10.jar"
     }
   ]
 }

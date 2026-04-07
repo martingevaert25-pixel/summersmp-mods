@@ -52,6 +52,10 @@
     {
       "name": "numismatic-overhaul-0.3.5+1.21.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/numismatic-overhaul-0.3.5+1.21.jar"
+    },
+    {
+      "name": "owo-lib-0.12.15.4+1.21.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/owo-lib-0.12.15.4+1.21.jar"
     }
   ]
 }

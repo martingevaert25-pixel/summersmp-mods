@@ -49,5 +49,9 @@
       "name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
       "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/xaeroworldmap-fabric-1.21.1-1.40.11.jar"
     },
+    {
+      "name": "entity_texture_features_1.21-fabric-7.0.13.jar",
+      "url": "https://raw.githubusercontent.com/martingevaert25-pixel/summersmp-mods/main/entity_texture_features_1.21-fabric-7.0.13.jar"
+    }
   ]
 }
